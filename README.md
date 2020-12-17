@@ -37,7 +37,7 @@ Week-3 Assignment
 
 Week-8 Assignment
 
-## Task-1[Solution](https://github.com/karanamrahul/END-Course-NLP/blob/main/Week-8%20Sequence_to_Sequence_Model_English-German.ipynb)
+## Task-1     [Solution](https://github.com/karanamrahul/END-Course-NLP/blob/main/Week-8%20Sequence_to_Sequence_Model_English-German.ipynb)
 
 To create a seq2seq model which can translate text from english to german using encoder and decoder architecture with three layers of LSTM.
 
