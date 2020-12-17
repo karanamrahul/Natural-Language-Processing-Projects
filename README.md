@@ -39,7 +39,7 @@ Week-8 Assignment
 
 ## Task-1
 
-To create a seq2seq model which can translate text from french to german using encoder and decoder architecture with three layers of LSTM.
+To create a seq2seq model which can translate text from english to german using encoder and decoder architecture with three layers of LSTM.
 
 Reference for the seq2seq paper :[seq2seq](https://arxiv.org/pdf/1409.3215.pdf)
 
