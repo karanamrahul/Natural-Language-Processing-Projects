@@ -32,3 +32,64 @@ Week-3 Assignment
    stands for Capital alphabets. 10<<DD<<99 & 1000<<DDDD<<9999 PTS:100
 
 5.1 Write the above again from scratch where KA can be changed to DL, and 1000/9999 ranges can be provided.  PTS:100
+
+
+
+Week-8 Assignment
+
+## Task-1
+
+To create a seq2seq model which can translate text from french to german using encoder and decoder architecture with three layers of LSTM.
+
+Reference for the seq2seq paper :[seq2seq](https://arxiv.org/pdf/1409.3215.pdf)
+
+## Task-2
+
+To create 100 python programs which will be used as a dataset in the upcoming course.
+
+write 100 such examples. These are the requirements:
+if you want the code to print something, then mention "print" in the text
+
+
+Example file - sample.py
+#### write a python program to add two numbers 
+num1 = 1.5
+num2 = 6.3
+sum = num1 + num2
+print(f'Sum: {sum}')
+
+
+#### write a python function to add two user provided numbers and return the sum
+def add_two_numbers(num1, num2):
+    sum = num1 + num2
+    return sum
+
+
+#### write a program to find and print the largest among three numbers
+
+num1 = 10
+num2 = 12
+num3 = 14
+if (num1 >= num2) and (num1 >= num3):
+   largest = num1
+elif (num2 >= num1) and (num2 >= num3):
+   largest = num2
+else:
+   largest = num3
+print(f'largest:{largest}')
+
+
+read the sample.py clearly to see the examples and learn from it. If you want the code to write a program, you are NOT asking to write a function. If you want a function, please mention it. 
+
+run the code in the terminal/notebook and make sure it runs!
+
+you cannot write more than 5 simple functions like add 2/3/4/5 numbers or divide, etc. Try and think of something tough, for example, add a list or tuple together. 
+stick to python only (no 3rd party library like numpy, etc)
+
+here are some examples:
+
+1.provide the length of list, dict, tuple, etc
+2.write a function to sort a list
+3.write a function to test the time it takes to run a function
+4.write a program to remove stop words from a sentence provided,
+etc
