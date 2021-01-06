@@ -93,3 +93,26 @@ here are some examples:
 3.write a function to test the time it takes to run a function
 4.write a program to remove stop words from a sentence provided,
 etc
+
+
+# Week-9 Assignment    
+
+##Model-1-[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+
+##Model-2-[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+
+Need to train these two models from the below datasets :
+
+1)[AmbigQA](https://nlp.cs.washington.edu/ambigqa/)-a new open-domain question answering task that consists of predicting a set of question and answer pairs, where each plausible answer is associated with a disambiguated rewriting of the original question. A data set covering 14,042 open-ended QI-open questions.
+
+Solution - Model-1   Model-2
+
+2)
+
+3)
+
+4)
+
+# Resources for Week-9 Assignment
+
+[Chatbot training datasets](https://kili-technology.com/blog/chatbot-training-datasets/)
