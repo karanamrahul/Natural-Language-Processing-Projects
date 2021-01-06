@@ -105,7 +105,7 @@ Need to train these two models from the below datasets :
 
 1)[AmbigQA](https://nlp.cs.washington.edu/ambigqa/)-a new open-domain question answering task that consists of predicting a set of question and answer pairs, where each plausible answer is associated with a disambiguated rewriting of the original question. A data set covering 14,042 open-ended QI-open questions.
 
-Solution - Model-1   Model-2
+Solution - Model-1   [Model-2](https://www.kaggle.com/rahulkarnam/model2-ambigqa)
 
 2)
 
