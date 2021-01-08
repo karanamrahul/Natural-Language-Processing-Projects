@@ -103,30 +103,34 @@ etc
 
 Need to train these two models from the below datasets :
 
-## 1)[AmbigQA](https://nlp.cs.washington.edu/ambigqa/)-a new open-domain question answering task that consists of predicting a set of question and answer pairs, where each plausible answer is associated with a disambiguated rewriting of the original question. A data set covering 14,042 open-ended QI-open questions.
+ 1)[AmbigQA](https://nlp.cs.washington.edu/ambigqa/)-a new open-domain question answering task that consists of predicting a set of question and answer pairs, where each plausible answer is associated with a disambiguated rewriting of the original question. A data set covering 14,042 open-ended QI-open questions.
 
 Solution - 
+
 [Model-1](https://github.com/karanamrahul/END-Course-NLP/blob/main/Model1-%20AmbigQA.ipynb)  
 
 [Model-2](https://github.com/karanamrahul/END-Course-NLP/blob/main/Model2_Ambigqa.ipynb)
 
-## 2)[Break](https://allenai.github.io/Break/) is a set of data for understanding issues, aimed at training models to reason about complex issues. It consists of 83,978 natural language questions, annotated with a new meaning representation, the Question Decomposition Meaning Representation (QDMR). Each example includes the natural question and its QDMR representation.
+2)[Break](https://allenai.github.io/Break/) is a set of data for understanding issues, aimed at training models to reason about complex issues. It consists of 83,978 natural language questions, annotated with a new meaning representation, the Question Decomposition Meaning Representation (QDMR). Each example includes the natural question and its QDMR representation.
 
 Solution - 
+
 [Model-1](https://github.com/karanamrahul/END-Course-NLP/blob/main/Model1_Break_dataset.ipynb)
 
 [Model-2](https://github.com/karanamrahul/END-Course-NLP/blob/main/Model_2_Break_dataset.ipynb)
 
-## 3)The Stanford Question Answering Dataset [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) is a set of reading comprehension data consisting of questions asked by social workers on a set of Wikipedia articles, where the answer to each question is a segment of text, or span, of the corresponding reading passage. With more than 100,000 question-answer pairs on more than 500 articles, SQuAD is significantly larger than previous reading comprehension datasets. SQuAD2.0 combines the 100,000 questions from SQuAD1.1 with more than 50,000 new unanswered questions written in a contradictory manner by crowd workers to look like answered questions.
+ 3)The Stanford Question Answering Dataset [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) is a set of reading comprehension data consisting of questions asked by social workers on a set of Wikipedia articles, where the answer to each question is a segment of text, or span, of the corresponding reading passage. With more than 100,000 question-answer pairs on more than 500 articles, SQuAD is significantly larger than previous reading comprehension datasets. SQuAD2.0 combines the 100,000 questions from SQuAD1.1 with more than 50,000 new unanswered questions written in a contradictory manner by crowd workers to look like answered questions.
 
 Solution - 
+
 [Model-1](https://github.com/karanamrahul/END-Course-NLP/blob/main/Model_1_Squad2_0.ipynb)
 
 [Model-2](https://github.com/karanamrahul/END-Course-NLP/blob/main/Model_2_Squad2_0.ipynb)
 
-## 4)[Cornell Movie-Dialogs Corpus](http://www.mpi-sws.org/~cristian/Cornell_Movie-Dialogs_Corpus.html): This corpus contains an extensive collection of metadata-rich fictional conversations extracted from raw movie scripts: 220,579 conversational exchanges between 10,292 movie character pairs involving 9,035 characters from 617 movies.
+4)[Cornell Movie-Dialogs Corpus](http://www.mpi-sws.org/~cristian/Cornell_Movie-Dialogs_Corpus.html): This corpus contains an extensive collection of metadata-rich fictional conversations extracted from raw movie scripts: 220,579 conversational exchanges between 10,292 movie character pairs involving 9,035 characters from 617 movies.
 
 Solution - 
+
 [Model-1](https://github.com/karanamrahul/END-Course-NLP/blob/main/Model_1_cornell_dataset.ipynb) 
 
 [Model-2](https://github.com/karanamrahul/END-Course-NLP/blob/main/Model2_Cornell_dataset.ipynb)
