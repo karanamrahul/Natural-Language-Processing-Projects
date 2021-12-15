@@ -1,5 +1,5 @@
 
-## Capstone Project : Create a transformer based model which will generate python code snippets using natural language considering proper indentations.
+##  A transformer based model which will generate python code snippets using natural language considering proper indentations.
 
 ### Dataset : We have a curated dataset of 4600+ examples which were taken from all the assignments during END & EVA Course.
 
@@ -44,7 +44,7 @@ class Solution:
 ```
 
 
-Model: We use seq2seq transformer architecture which has encoder and decoder which will convert engish language to python code snippets.
+Model: I use seq2seq transformer architecture which has encoder and decoder which will convert engish language to python code snippets.
 
 ## Dataset Preprocessing
 
