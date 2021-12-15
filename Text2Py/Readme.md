@@ -1,5 +1,5 @@
 
-##  A transformer based model which will generate python code snippets using natural language considering proper indentations.
+##  Text2Py : A transformer based model which will generate python code snippets using natural language considering proper indentations.
 
 ### Dataset : We have a curated dataset of 4600+ examples which were taken from all the assignments during END & EVA Course.
 
